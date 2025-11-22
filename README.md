@@ -62,9 +62,4 @@ https://github.com/iCrawl/discord-vscode/issues/85#issuecomment-417895483
 5. Push to the branch: `git push origin my-new-feature`
 6. Submit a pull request :D
 
-## Author
 
-**Discord Presence** © [iCrawl](https://github.com/iCrawl).  
-Authored and maintained by iCrawl.
-
-> GitHub [@iCrawl](https://github.com/iCrawl)
